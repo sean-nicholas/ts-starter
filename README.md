@@ -5,5 +5,5 @@ Opinionated typescript project generator
 Just run
 
 ```sh
-npx @seannicholas/ts-starter
+npx @sean-nicholas/ts-starter
 ```
